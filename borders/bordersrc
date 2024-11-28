@@ -1,0 +1,9 @@
+options=(
+	style=round
+	width=6.0
+	hidpi=on
+	active_color=0xaa89b4fa
+	blur_radius=12.
+)
+
+borders "${options[@]}"
